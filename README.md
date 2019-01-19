@@ -1,5 +1,5 @@
 # Loot-Boy
-Farm Bot for Blackline-Network.de
+Farm Bot for a "Special GTMP Server"
 
 Auto Looting for Stones, Oranges, Tomatoes, Gold etc.
 
