@@ -1,0 +1,10 @@
+[17.12.18] v.3.0
+
+- optimized Inventory Detection
+- Added RNG Mouseclicks for Drag n Drop to Truck and also Loot Amount Transfer
+- Added an aditional Check for Restore Old Window.
+- Doubles Checks now old Window to restore the right Window, if not Focus TeamSpeak 3.
+- Fixed Custom Delay Changes.
+- Fixed a rare Random Crash while moving Loot.
+- Added Milliseconds to Log Time.
+- Other small Changes.
